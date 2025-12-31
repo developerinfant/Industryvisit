@@ -456,7 +456,7 @@ const SimpleInternshipForm = () => {
 
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                Email Address *
+                Gmail Address *
               </label>
               <input
                 type="email"
